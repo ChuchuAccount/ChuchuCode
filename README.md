@@ -17,3 +17,6 @@ This project presents an interactive data visualization of the **World Risk Inde
   - Vulnerability
   - Susceptibility
 - Apply principles of **information design**, **accessibility**, and **emotional engagement** in visualization.
+
+## Result Preview
+![Uploading Screenshot 2025-04-06 at 22.53.44.png…]()
