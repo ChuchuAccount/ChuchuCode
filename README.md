@@ -19,4 +19,4 @@ This project presents an interactive data visualization of the **World Risk Inde
 - Apply principles of **information design**, **accessibility**, and **emotional engagement** in visualization.
 
 ## Result Preview
-![WRI Map](images/Screenshot 2025-04-06 at 22.53.44.png)
+![WRI Map](images/wri_map.png)
