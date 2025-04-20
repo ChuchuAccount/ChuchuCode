@@ -59,3 +59,6 @@ The paper emphasized emotional engagement in visual storytelling. This project i
 ## Usage
 
 You can run the notebook using **Google Colab** or any local Python environment.
+
+## Acknowledgement
+This project has benefitted from the conversations at the Digital Technology for Sustainability Symposium at Duke Kunshan University on April 18. We especially thank Prof. Charles Chang for his insights that helped improve the work, and the conference organizers Profs. Luyao Zhang for making the symposium happen.
