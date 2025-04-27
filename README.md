@@ -1,4 +1,4 @@
-# World Climate Risk Index Visualization
+![image](https://github.com/user-attachments/assets/5517fb41-8147-4a3b-ada6-3ccb5fde0fd8)# World Climate Risk Index Visualization
 
 This project presents an interactive data visualization of the **World Risk Index (WRI)** using Python and Plotly. The goal is to support public understanding of global disaster risks through engaging, accessible, and informative visual analytics.
 
@@ -61,4 +61,7 @@ The paper emphasized emotional engagement in visual storytelling. This project i
 You can run the notebook using **Google Colab** or any local Python environment.
 
 ## Acknowledgement
-This project has benefitted from the conversations at the Digital Technology for Sustainability Symposium at Duke Kunshan University on April 18 and the later virtural contact. We especially thank Prof. Charles Chang and Prof. Fan Liang for their insights that helped improve the work, and the conference organizers Profs. Luyao Zhang for making the symposium happen. Also for the two guest lecturer, Dongping and David, for their kindness and guidance. Last but not least, my fellow classmates, I really appreciate their support, discussion and peer review.
+This project has benefitted from the conversations and feedback received during the Digital Technology for Sustainability Symposium at Duke Kunshan University on April 18.
+We especially thank Prof. Fan and Prof. Chang for their valuable insights that helped improve this work.
+We also appreciate the feedback from classmates and the guidance of Prof. Luyao Zhang, the instructor of INFOSCI 301 – Data Visualization and Information Aesthetics.
+Additionally, the guest lectures throughout the course and discussions at the Zhouzhuang Mystery of Life Museum field trip provided important perspectives that shaped the final project.
