@@ -60,6 +60,15 @@ The paper emphasized emotional engagement in visual storytelling. This project i
 
 You can run the notebook using **Google Colab** or any local Python environment.
 
+## Contribution to Sustainable Development Goals (SDGs)
+This project contributes to the following United Nations Sustainable Development Goals (SDGs):
+
+Goal 13: Climate Action — By visualizing climate risk indicators and enhancing public understanding of environmental vulnerabilities.
+
+Goal 11: Sustainable Cities and Communities — By promoting awareness about how climate risks affect urban development and resilience planning.
+
+Through accessible and interactive visualizations, the project aims to raise awareness, foster informed decision-making, and encourage community resilience against environmental challenges.
+
 ## Acknowledgement
 This project has benefitted from the conversations and feedback received during the Digital Technology for Sustainability Symposium at Duke Kunshan University on April 18.
 We especially thank Prof. Fan and Prof. Chang for their valuable insights that helped improve this work.
