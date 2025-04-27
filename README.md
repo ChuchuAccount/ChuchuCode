@@ -69,6 +69,17 @@ Goal 11: Sustainable Cities and Communities — By promoting awareness about how
 
 Through accessible and interactive visualizations, the project aims to raise awareness, foster informed decision-making, and encourage community resilience against environmental challenges.
 
+## Future Research Directions: Integrating Digital Humanities
+Inspired by the Zhouzhuang Mystery of Life Museum field trip, this project envisions future expansions in the domain of digital humanities, biodiversity communication, and community-based learning:
+
+Scientific Storytelling: Developing narrative-based visualizations that intertwine climate data with personal and community stories, enhancing emotional engagement.
+
+Biodiversity Visualization: Incorporating biodiversity indicators into future versions of the project, highlighting the interplay between environmental risks and species vulnerability.
+
+Community Co-Creation: Engaging local communities to contribute lived experiences and local data, building participatory visualizations that empower collective action.
+
+Ethical Aesthetics: Designing future visualizations that balance aesthetic appeal with truthful, transparent communication, inspired by the museum’s focus on ethical storytelling.
+
 ## Acknowledgement
 This project has benefitted from the conversations and feedback received during the Digital Technology for Sustainability Symposium at Duke Kunshan University on April 18.
 We especially thank Prof. Fan and Prof. Chang for their valuable insights that helped improve this work.
